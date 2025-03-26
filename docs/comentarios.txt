@@ -1,0 +1,17 @@
+Lições aprendidas durante o curso Iterasys (142)
+ - Gravação e execução com Selenium IDE
+ - Adaptar a gravação com Selenium WebDriver
+ - Criar script do zero por programação
+ 
+ Obs: Para pequenos projetos, cada teste é um arquivo
+ 
+ Abordagens úteis em projetos com maiores vidas úteis:
+ 
+ Projeto utilizando a abordagem BDD (Behavior Driven Development)
+ - Significado: Desenvolvimento direcionado por comportamento
+ - Foco do BDD é a melhor comunicação entre o time
+ - Usar um plugin/framework chamado Cucumber // https://cucumber.io/
+ - Seguir a sintaxe Gherkin
+ 
+ - 1 Teste será composto por 2 arquivos: Arquivo de negócio escrito em Gherkin (.feature) e arquivo
+ de automação, que faz referêcia ao .feature (.java)
