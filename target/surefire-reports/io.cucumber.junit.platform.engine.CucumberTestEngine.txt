@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: io.cucumber.junit.platform.engine.CucumberTestEngine
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.790 s <<< FAILURE! -- in io.cucumber.junit.platform.engine.CucumberTestEngine
-Comprar Passagem.Comprar com sucesso -- Time elapsed: 0.146 s <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.207 s <<< FAILURE! -- in io.cucumber.junit.platform.engine.CucumberTestEngine
+Comprar Passagem.Comprar com sucesso -- Time elapsed: 0.101 s <<< ERROR!
 io.cucumber.junit.platform.engine.UndefinedStepException: 
 The step 'que acesso o site "https://blazedemo.com/"' and 3 other step(s) are undefined.
 You can implement these steps using the snippet(s) below:
